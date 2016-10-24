@@ -113,6 +113,8 @@ h4{
 
 nav {
   margin: 35px;
+  position: fixed;
+
 }
 
 nav ul {
@@ -120,7 +122,6 @@ nav ul {
     margin-bottom: 60px;
     padding-left: 0px;
     margin-top: 35px;
-    position: fixed
 }
 
 nav ul li a {
